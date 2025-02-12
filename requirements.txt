@@ -1,0 +1,12 @@
+altair
+seaborn
+jupyterlab
+ipywidgets
+jupyterlab-dash
+python-dotenv
+psycopg2-binary
+SQLAlchemy
+missingno
+geopandas
+statsmodels
+geojson
