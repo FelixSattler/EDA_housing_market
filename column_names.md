@@ -1,23 +1,23 @@
-# Column Names and descriptions for King County Data Set
+# Column names and descriptions for King County data set
 
 - **id** - unique identified for a house
-- **dateDate** - house was sold
-- **pricePrice** - is prediction target
-- **bedroomsNumber** - # of bedrooms
-- **bathroomsNumber** - # of bathrooms
-- **sqft_livingsquare** - footage of the home
-- **sqft_lotsquare** - footage of the lot
-- **floorsTotal** - floors (levels) in house
-- **waterfront** - House which has a view to a waterfront
+- **date** - date house was sold
+- **price** - is prediction target
+- **bedrooms** - number of bedrooms
+- **bathrooms** - number of bathrooms
+- **sqft_living** - footage of the home
+- **sqft_lot** - footage of the lot
+- **floors** - floors (levels) in house
+- **waterfront** - house has a view to a waterfront
 - **view** - quality of view
-- **condition** - How good the condition is ( Overall )
+- **condition** - condition of the house (overall)
 - **grade** - overall grade given to the housing unit, based on King County grading system
 - **sqft_above** - square footage of house apart from basement
 - **sqft_basement** - square footage of the basement
-- **yr_built** - Built Year
-- **yr_renovated** - Year when house was renovated
-- **zipcode** - zip
-- **lat** - Latitude coordinate
-- **long** - Longitude coordinate
-- **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
-- **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
+- **yr_built** - year the house was built
+- **yr_renovated** - rear the house was renovated
+- **zipcode** - zipcode
+- **lat** - latitude coordinate
+- **long** - longitude coordinate
+- **sqft_living15** - square footage of interior housing living space for the nearest 15 neighbors
+- **sqft_lot15** -  square footage of the land lots of the nearest 15 neighbors
