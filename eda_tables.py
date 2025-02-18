@@ -27,8 +27,11 @@ def explore(df):
     #shape
     print(f'\n DF shape:   {df.shape}')
 
+    #unique values
+    print(f'\n Number of unique values: \n {df.nunique()}')
+
     #duplicates
-    print(f'\n Sum of duplicates: {df.duplicated().sum()}\n') # there are no duplicates
+    print(f'\n Sum of duplicates: {df.duplicated().sum()}\n') 
 
     #missing values
     sum_missing = df.isna().sum()
